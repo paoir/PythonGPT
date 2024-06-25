@@ -1,3 +1,7 @@
+"""
+program ini dibuat dengan bantuan ChatGPT. untuk mencoba melist artikel dan mengambil konten text dan menyimpannya dalam bentuk csv.
+rioap
+"""
 import requests
 import csv
 
