@@ -3,6 +3,7 @@ Program ini dibuat dengan ChatGPT
 Untuk menampilkan judul artikel yang terakhir/terbaru dipublish dalam sebuah halaman website berbasis Wordpress.
 Yang ditampilkan adalah judul dan link url artikel. Jumlah page atau total artikel yang ditampikan disesuaikan dengan per_page yang diinginkan.
 Hasilnya berupa list yang tidak tersimpan.
+rioap.
 """
 
 import requests
